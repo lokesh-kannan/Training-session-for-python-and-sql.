@@ -101,3 +101,28 @@ print(a>>1)
 print(" a=12 "+" Binary representation of a: "+bin(a))
 
 print(" b=5 "+" Binary representation of b: "+bin(b))
+
+'''
+90 - 100 --> O 
+80 - 89 --> A+ 
+70 - 79 --> A 
+60 - 69 --> B 
+50 - 59 --> C 
+0 - 49 --> Fail
+marks = print("Enter the marks: "+str(input()))
+if marks > 90 or marks < 100 :
+    print("the student has obtained a 'O' grade!!!")
+elif marks > 80 or marks < 89 :
+    print("the student has obtained a 'A+' grade!!!")
+elif marks > 70 or marks < 79 :
+    print("the student has obtained a 'A' grade!!!")
+elif marks > 60 or marks < 69 :
+    print("the student has obtained a 'B' grade!!!") 
+elif marks > 50 or marks < 59 :
+    print("the student has obtained a 'C' grade!!!")
+elif marks< 49:
+    print("the student has failed")
+else :
+    print("invalid marks")'''
+  
+ 
