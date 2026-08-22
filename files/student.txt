@@ -1,0 +1,34 @@
+Student Name - Lokesh
+Age - 25
+Department - CSE
+Mark - 80
+
+Student Name: Arun
+Age: 23
+Department: Mechanical
+Mark: 78
+
+Student Name: Arun
+Age: 23
+Department: Mechanical
+Mark: 78
+
+Student Name: Arun
+Age: 23
+Department: Mechanical
+Mark: 78
+
+Student Name: Arun
+Age: 23
+Department: Mechanical
+Mark: 78
+
+Student Name: Arun
+Age: 23
+Department: Mechanical
+Mark: 78
+
+Student Name: Arun
+Age: 23
+Department: Mechanical
+Mark: 78
